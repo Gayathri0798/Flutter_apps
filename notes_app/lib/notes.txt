@@ -1,0 +1,2 @@
+A function without a body does not run, insted they are wrapped into other functions.
+pubspec.yaml file is used to manage dependencies.
